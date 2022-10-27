@@ -1,0 +1,4 @@
+npm install -D svelte-paginate
+
+npm install -D @sveltejs/adapter-netlify@next
+
